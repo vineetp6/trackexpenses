@@ -19,13 +19,13 @@ FinTracker is a Flutter application that helps you track your expenses and manag
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nafishahmeddev/trackexpenses.git
+git clone [https://github.com/nafishahmeddev/trackexpenses.git](https://github.com/vineetp6/trackexpenses.git)
 ```
 
 2. Change to the project directory:
 
 ```bash
-cd fintracker
+cd trackexpenses
 ```
 
 3. Install dependencies:

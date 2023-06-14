@@ -4,7 +4,6 @@
 
 FinTracker is a Flutter application that helps you track your expenses and manage category budgets. It provides a user-friendly interface to enter and categorize your expenses, giving you insights into your spending habits and helping you stay within your budget.
 
-![FinTracker Screenshot](screenshots/fintracker_screenshot.jpg)
 
 ## Features
 
@@ -20,7 +19,7 @@ FinTracker is a Flutter application that helps you track your expenses and manag
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nafishahmeddev/fintracker.git
+git clone https://github.com/nafishahmeddev/trackexpenses.git
 ```
 
 2. Change to the project directory:
@@ -50,9 +49,7 @@ flutter run
 - Navigate to the "Categories" tab to manage your expense categories and budgets.
 - Set monthly budgets for each category by clicking on the category and entering the desired amount.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
@@ -64,6 +61,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The design and inspiration for this app came from various expense tracker apps available in the market.
 - Special thanks to the open-source community for their valuable contributions.
 
-## Contact
-
-For any questions or inquiries, please email us at [hello@nafish.me](mailto:hello@nafish.me).
